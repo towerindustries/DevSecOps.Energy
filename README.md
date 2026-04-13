@@ -1,1 +1,1 @@
-# DevSecPps.energy
+# DevSecOps.Energy
